@@ -1,0 +1,10 @@
+Access emsdk from ADMIN cmd "C:\Windows\System32" on Windows (root directory of emsdk)
+
+then
+emsdk activate latest
+em++ -v
+emcc -v
+
+em++ F:\GIT-Push\Projects\rpn-calc\src\util\rpn-calc.cpp -o F:\GIT-Push\Projects\rpn-calc\src\util\out\rpn.js
+
+
